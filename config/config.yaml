@@ -114,8 +114,6 @@ platforms:
     name: "联合早报"
   - id: "mktnews"
     name: "MKT新闻"
-  - id: "kaopu"
-    name: "靠谱新闻"
   # === 财经投资类 ===
   - id: "wallstreetcn-hot"
     name: "华尔街见闻 最热"
@@ -151,10 +149,6 @@ platforms:
     name: "IT之家"
   - id: "juejin"
     name: "掘金"
-  - id: "github"
-    name: "GitHub"
-  - id: "hackernews"
-    name: "Hacker News"
   - id: "solidot"
     name: "Solidot"
   - id: "v2ex"
@@ -165,8 +159,6 @@ platforms:
     name: "远景论坛"
   - id: "sspai"
     name: "少数派"
-  - id: "producthunt"
-    name: "ProductHunt"
   # === 其他/工具类 ===
   - id: "chongbuluo"
     name: "虫部落"
