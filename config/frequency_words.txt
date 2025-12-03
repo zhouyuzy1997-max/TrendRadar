@@ -11,6 +11,12 @@ Wish
 独立站
 第三方平台
 乐天
+亚马逊全球开店
+拼多多
+Temu
+SHEIN
+希音
+
 FBA
 Fulfillment by Amazon
 海外仓
@@ -23,6 +29,7 @@ Fulfillment by Amazon
 直邮
 集运
 末端配送
+
 跨境支付
 PayPal
 Stripe
@@ -35,6 +42,7 @@ Stripe
 结汇
 税务合规
 VAT
+
 进出口贸易
 贸易融资
 北美市场
@@ -44,48 +52,30 @@ VAT
 拉美市场
 中东市场
 新兴市场
+
 全球化
 数字化转型
 移动商务
 直播带货
 可持续发展
 绿色物流
-亚马逊全球开店
-拼多多
-Temu
-SHEIN
-希音
+
 OpenAI
 ChatGPT
-GPT-4/GPT-5
-Microsoft Copilot
-Google Gemini
-Google Bard
+Microsoft
+Google 
+Gemini
+Google
 Anthropic Claude
-Meta LLaMA
-Amazon Bedrock
-Tesla Autopilot
-百度文心一言 
+Meta
+Tesla
+文心一言 
 ERNIE Bot
-阿里通义千问 
+通义千问 
 Qwen
-腾讯混元 
-Hunyuan
-字节豆包 
+豆包 
 Doubao
-商汤科技 
-SenseTime
-旷视科技 
-Megvii
-科大讯飞 
-iFLYTEK
-云从科技 
-CloudWalk
-依图科技 
-Yitu
-寒武纪 
-Cambricon
-地平线 
+
 Horizon Robotics
 人工智能 
 Artificial Intelligence
